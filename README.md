@@ -39,7 +39,13 @@
 
 ![Doble factor de autentificacion](doble_factor_autentificación.PNG)
 
+11. Crear una Tabla
 
+| NOMBRE | GITHUB |
+|------------------------|---------------------------------------------------|
+| Nombre del compañero 1 | [enlace a github 1](https://github.com/jpinto7) |
+| Nombre del compañero 2 | [enlace a github 1](https://github.com/tguzman2021) |
+| Nombre del compañero 3 | [enlace a github 3](https://github.com/edjotori) |
 
 
 
