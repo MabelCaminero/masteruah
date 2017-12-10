@@ -15,7 +15,7 @@
 
 4. Push inicial. Subir los cambios al repositorio remoto
 
-![Push_inicial](Push_inicial.png)
+![Push_inicial](Push_inicial.PNG)
 
 5. Ignorar archivos
 
@@ -33,7 +33,7 @@
 
 9. Foto de perfil 
 
-![Foto de perfil](Foto_perfil.PNG)
+![Foto de perfil](Foto_perfil.png)
 
 10. Poner doble factor de autentificación
 
