@@ -2,7 +2,7 @@
 
 1.	Repositorio masteruah 
 
-![Crear_repositorio](Crear_repositorio.PNG)
+![Crear_repositorio](Crear_repositorio.png)
 
 2. Clonar repositorio en local
 
