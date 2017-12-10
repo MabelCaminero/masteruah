@@ -7,7 +7,7 @@
 
 2. Clonar en repositorio local
 
-![clonar_repositorio](C:/Users/Mabel Caminero/Pictures/Ejercicios realizados/Git_clone.png)
+![clonar_repositorio](c:/Users/Mabel Caminero/Pictures/Ejercicios realizados/Git_clone.png)
 
 
 
