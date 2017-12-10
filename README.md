@@ -24,7 +24,7 @@
 
 6. Añadir fichero 1.txt
 
-![Fichero1](Fichero 1.PNG)
+![Fichero1](Fichero_1.PNG)
 
 7. Crear tag v0.1
 8. Subir tag v.01
