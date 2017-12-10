@@ -3,7 +3,7 @@
 1.	Repositorio masteruah 
 
 
-![Una imagen cualquiera](http://dummyimage.com/150 "De 150 x 150 píxeles")
+![Crear_repositorio](C:\Users\Mabel Caminero\OneDrive\Master en Data Science\Bloque 5 GIT\Ejercicios realizados\Crear_repositorio)
 
 
 
