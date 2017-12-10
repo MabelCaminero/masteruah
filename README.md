@@ -1,3 +1,4 @@
 # masteruah
 
-1.	Repositorio masteruah  ![imagen SSH] (Crear repositorio/SHH.PNG)
+1.	Repositorio masteruah 
+[crear_repositorio]: images/crear_repositorio.png
