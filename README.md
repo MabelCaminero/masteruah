@@ -48,7 +48,8 @@
 | Nombre del compañero 3 | [enlace a github 3](https://github.com/edjotori) |
 
 
+12. Colaboradores
 
-
+![Colaborador](Colaborador.PNG)
 
 
